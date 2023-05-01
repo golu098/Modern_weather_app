@@ -14,7 +14,7 @@ a {
 }
 
 a:hover {
-    color:white; 
+    color:gray; 
     text-decoration:none; 
     cursor:pointer;  
 }
